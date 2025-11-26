@@ -1,0 +1,137 @@
+game_id,half,game_time_sec,label_text,localpath,num_players,num_boxes,norm_mean_area,ball_visible,highlight
+0,1,271,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,11,13,0.003954752637553419,1,0
+0,1,790,Goal,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,14,17,0.0023701526132443728,1,1
+0,1,1057,Clearance,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,13,15,0.001999668891460906,0,0
+0,1,1440,Shots off target,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,15,19,0.0017932404133162779,1,0
+0,1,1516,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,14,17,0.003112901325344954,1,0
+0,1,1730,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,15,18,0.00263198122160065,1,0
+0,1,2021,Corner,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,14,16,0.002246456241560569,1,1
+0,1,2157,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,17,21,0.0025037580972589652,1,0
+0,1,2400,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,11,13,0.002241023099922839,1,0
+0,2,2906,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,16,20,0.0025352738884066367,1,0
+0,2,2996,Shots on target,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,16,20,0.0029603006751543217,1,0
+0,2,2997,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,16,20,0.0027878390649112633,1,0
+0,2,3153,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,15,17,0.002620111102600762,1,0
+0,2,3259,Shots on target,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,9,10,0.003002099961419752,1,0
+0,2,3450,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,15,17,0.002412908337872186,1,0
+0,2,3542,Clearance,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,0,7,0.17796784583057762,0,0
+0,2,3588,Throw-in,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,14,17,0.0013511996669616933,0,0
+0,2,4544,Shots off target,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,12,16,0.003044728832103589,1,0
+0,2,4677,Shots off target,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,15,18,0.002018340537658607,1,0
+0,2,4778,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,10,13,0.002971223772851378,1,0
+0,2,4821,Goal,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,17,20,0.0021626031346450624,1,1
+0,2,4952,Throw-in,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,5,7,0.058166331983024684,0,0
+0,2,5301,Shots off target,england_epl/2014-2015/2015-02-21 - 18-00 Chelsea 1 - 1 Burnley,13,16,0.0022465906575520824,1,0
+1,1,167,Offside,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,12,14,0.004056066576760911,1,0
+1,1,224,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,13,14,0.0026870945560515864,1,0
+1,1,379,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,16,19,0.0040420357844481,1,0
+1,1,426,Goal,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,12,16,0.004464155287000867,1,1
+1,1,613,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,8,11,0.002671611929845328,1,0
+1,1,1109,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,10,12,0.004998583939163772,1,0
+1,1,1177,Throw-in,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,14,17,0.004253589435253268,0,0
+1,1,1247,Shots off target,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,14,17,0.0049695546109068634,1,0
+1,1,1301,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,15,18,0.0027187815875771596,1,0
+1,1,1323,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,13,15,0.00334198939525463,1,0
+1,1,1528,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,10,12,0.0025443830837673623,1,0
+1,1,1659,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,13,18,0.002471171736352237,1,0
+1,1,1801,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,6,7,0.07678187087673613,1,0
+1,1,1910,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,11,13,0.00424587045105502,1,0
+1,1,2146,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,3,4,0.10084505664062499,1,0
+1,1,2198,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,2,3,0.04715992556423612,1,0
+1,1,2495,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,10,11,0.0030457899404198246,1,0
+1,1,2663,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,15,18,0.002012472843123071,1,0
+1,1,2708,Goal,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,11,12,0.0030062584454571763,1,1
+1,2,2754,Offside,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,15,18,0.0039985919355227635,1,0
+1,2,2804,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,10,12,0.0034770248571325242,1,0
+1,2,3045,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,10,12,0.006006484239366319,1,0
+1,2,3134,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,14,16,0.003914143669976127,1,0
+1,2,3319,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,9,12,0.003808737648292825,1,0
+1,2,3375,Shots off target,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,8,11,0.003597194286616161,1,0
+1,2,3599,Shots on target,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,12,15,0.0034537722800925927,1,0
+1,2,3803,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,10,14,0.004438680795820934,1,0
+1,2,4036,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,14,17,0.0038016815321180535,1,0
+1,2,4145,Shots off target,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,9,12,0.0035481615306712957,1,0
+1,2,4396,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,13,16,0.0047124851820204,1,0
+1,2,4451,Direct free-kick,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,18,22,0.0035687752673216533,1,1
+1,2,4601,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,11,14,0.00418266564360119,1,0
+1,2,4957,Shots on target,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,10,13,0.004136514181022969,1,0
+1,2,5155,Shots on target,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,13,15,0.003530136328124999,1,0
+1,2,5196,Corner,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,18,21,0.0011233466331845247,1,1
+1,2,5613,Goal,england_epl/2014-2015/2015-02-21 - 18-00 Crystal Palace 1 - 2 Arsenal,18,22,0.0032008191189236107,1,1
+2,1,58,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,11,13,0.003066742588141026,1,0
+2,1,221,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,11,15,0.003810309432870369,1,0
+2,1,314,Throw-in,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,11,13,0.013033545539529914,0,0
+2,1,613,Shots off target,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,17,21,0.00416755386594742,1,0
+2,1,894,Indirect free-kick,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,16,19,0.0012625447391264616,1,0
+2,1,899,Shots off target,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,17,19,0.0032678589238395463,1,0
+2,1,1002,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,13,16,0.0035699816962348105,1,0
+2,1,1190,Shots on target,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,13,16,0.003040503987630209,1,0
+2,1,1266,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,13,15,0.004997882986111112,1,0
+2,1,1354,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,12,14,0.0030471709991939473,1,0
+2,1,1575,Shots off target,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,12,14,0.002879475717695932,1,0
+2,1,1656,Goal,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,9,11,0.004256545592645202,1,1
+2,1,1772,Goal,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,12,15,0.004519687000868056,1,1
+2,1,1909,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,15,18,0.0028769055145640436,1,0
+2,1,2249,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,9,11,0.0028735015486900245,1,0
+2,1,2426,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,6,9,0.002537819130979938,1,0
+2,1,2654,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,13,15,0.002709449385127314,1,0
+2,2,2851,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,11,14,0.003165421743241567,1,0
+2,2,2907,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,12,13,0.0039001453408787374,1,0
+2,2,3557,Shots off target,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,11,14,0.005263995458209326,1,0
+2,2,3890,Shots off target,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,16,20,0.00414332529296875,1,0
+2,2,4108,Ball out of play,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,12,13,0.0038811431206597236,1,0
+2,2,4222,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,16,20,0.0029268800347222223,1,0
+2,2,4327,Goal,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,8,10,0.004938674446614583,1,1
+2,2,4530,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,15,18,0.002799342863859954,1,0
+2,2,5013,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,11,13,0.002196808518629808,1,0
+2,2,5086,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,14,17,0.0031597667228349677,1,0
+2,2,5121,Shots on target,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,11,13,0.004006199761284721,1,0
+2,2,5252,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,15,19,0.002401406015853436,1,0
+2,2,5410,Foul,england_epl/2014-2015/2015-02-21 - 18-00 Swansea 2 - 1 Manchester United,11,12,0.0033860246853298606,1,0
+3,1,152,Goal,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,8,10,0.0031062549045138893,1,1
+3,1,214,Shots on target,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,11,15,0.0024133685112847254,1,0
+3,1,457,Shots off target,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,14,18,0.00236434742115162,1,0
+3,1,610,Foul,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,3,5,0.09158014711371527,1,0
+3,1,1815,Foul,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,3,4,0.11276363658311633,1,0
+3,1,2100,Throw-in,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,3,4,0.09246785297309028,0,0
+3,1,2175,Shots off target,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,17,20,0.0028809629123263893,1,0
+3,1,2555,Foul,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,12,15,0.0025440301215277775,1,0
+3,2,2993,Shots off target,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,14,17,0.002179757391237744,1,0
+3,2,3139,Foul,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,14,18,0.0021736689031153556,1,0
+3,2,3766,Foul,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,12,15,0.0024784680844907423,1,0
+3,2,4084,Foul,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,18,21,0.002133049256985781,1,0
+3,2,4369,Goal,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,10,14,0.0021782674541170636,1,1
+3,2,4601,Foul,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,16,19,0.002441999320403874,1,0
+3,2,4679,Direct free-kick,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,18,22,0.0026228317501183723,1,1
+3,2,4942,Ball out of play,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,15,17,0.0021953762446384785,1,0
+3,2,5016,Foul,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,3,4,0.08330785259331597,1,0
+3,2,5371,Shots on target,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,17,20,0.002402496565755208,1,0
+3,2,5421,Shots on target,england_epl/2014-2015/2015-02-22 - 19-15 Southampton 0 - 2 Liverpool,11,15,0.0018106745153356513,1,0
+5,1,225,Shots off target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,16,17,0.0029341590755154515,1,0
+5,1,358,Ball out of play,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,13,14,0.002799468868490018,1,0
+5,1,745,Shots on target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,17,18,0.002551611371324487,1,0
+5,1,1132,Shots off target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,16,19,0.002657648437179013,1,0
+5,1,1319,Foul,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,2,4,0.07656594317183842,1,0
+5,1,1347,Shots off target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,18,21,0.0030124439611910344,1,0
+5,1,1470,Shots on target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,9,10,0.0019340788202576098,1,0
+5,1,1817,Shots off target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,16,18,0.002452701272334981,1,0
+5,1,2340,Ball out of play,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,14,17,0.0030318512650962027,1,0
+5,1,2477,Shots on target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,14,18,0.002978075925383814,1,0
+5,1,2571,Shots on target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,13,16,0.0031060971957943017,1,0
+5,2,3013,Ball out of play,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,6,8,0.0028142551900370806,1,0
+5,2,3125,Shots on target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,10,12,0.0048436407307116845,1,0
+5,2,3264,Shots on target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,10,13,0.0031964032006245114,1,0
+5,2,3492,Foul,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,14,16,0.004135695288104997,1,0
+5,2,3545,Foul,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,14,15,0.004088189354020297,1,0
+5,2,3623,Foul,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,12,12,0.002766356057279468,1,0
+5,2,3680,Shots on target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,16,19,0.0031211467320966333,1,0
+5,2,3780,Shots on target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,12,12,0.0063829279900143145,1,0
+5,2,3873,Goal,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,11,13,0.005297253779349065,1,1
+5,2,4115,Shots off target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,9,12,0.004339407099759303,1,0
+5,2,4229,Foul,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,10,12,0.003033268808548008,1,0
+5,2,4392,Shots off target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,5,6,0.004244840903916208,1,0
+5,2,4488,Shots off target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,10,13,0.003986387831772055,1,0
+5,2,4722,Goal,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,15,16,0.0017774360241022645,1,1
+5,2,4830,Goal,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,11,14,0.0076674139901862365,1,1
+5,2,5092,Shots on target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,13,15,0.004036048838797815,1,0
+5,2,5327,Shots on target,england_epl/2015-2016/2015-08-29 - 17-00 Chelsea 1 - 2 Crystal Palace,14,15,0.006758653298204528,1,0
