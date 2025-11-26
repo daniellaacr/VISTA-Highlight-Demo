@@ -1,9 +1,6 @@
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyBboxPatch, FancyArrow
 
-# --------------------------------------------------------
-# Diagrama sencillo del pipeline VISTA / Soccer highlight
-# --------------------------------------------------------
 
 def draw_box(ax, xy, text, box_color="#82b1ff"):
     """
@@ -34,7 +31,6 @@ def draw_box(ax, xy, text, box_color="#82b1ff"):
         wrap=True,
     )
 
-    # Devuelve el centro de la caja para poder conectar flechas
     return x + width, y + height / 2
 
 
@@ -53,7 +49,7 @@ def main():
         box_color="#82b1ff",
     )
 
-    # 2. Preprocesamiento
+    # 2. Preprocesing
     x2 = right1 + 0.6
     right2, center2 = draw_box(
         ax,
@@ -62,7 +58,7 @@ def main():
         box_color="#b3d9ff",
     )
 
-    # 3. Extracción de características
+    
     x3 = right2 + 0.6
     right3, center3 = draw_box(
         ax,
@@ -71,7 +67,7 @@ def main():
         box_color="#c8e6c9",
     )
 
-    # 4. Modelo de highlight
+    # 4. Highlight
     x4 = right3 + 0.6
     right4, center4 = draw_box(
         ax,
@@ -80,7 +76,7 @@ def main():
         box_color="#ffe082",
     )
 
-    # 5. Salida
+    # 5. Exit
     x5 = right4 + 0.6
     right5, center5 = draw_box(
         ax,
@@ -89,7 +85,7 @@ def main():
         box_color="#ffccbc",
     )
 
-    # Flechas entre cajas
+    
     centers = [center1, center2, center3, center4]
     rights = [right1, right2, right3, right4]
     for r, c in zip(rights, centers):
