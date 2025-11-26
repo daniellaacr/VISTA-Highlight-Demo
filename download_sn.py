@@ -5,7 +5,7 @@ SN_PATH = r"C:\SoccerNetData"
 mySoccerNetDownloader = SoccerNetDownloader(LocalDirectory=SN_PATH)
 
 mySoccerNetDownloader.downloadGames(
-    files=["annotations.json"],   # ESTE es el archivo con bounding boxes
+    files=["annotations.json"],   
     split=["train"],
     task="tracking"
 )
