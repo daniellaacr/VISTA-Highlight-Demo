@@ -3,10 +3,9 @@ import json
 import math
 import pandas as pd
 
-# Ruta base donde descargaste SoccerNet (ya la usaste antes)
+
 SN_PATH = r"C:\SoccerNetData"
 
-# Etiquetas que consideraremos como "highlights" (ajústalas si quieres)
 HIGHLIGHT_LABELS = {
     "Goal",
     "Shot on target",
@@ -62,9 +61,7 @@ def process_labels_json(labels_path: str):
         half = meta.get("half", 1)
         localpath = meta.get("localpath", "")
 
-        # --- Features simples ---
-
-        # 1) tiempo en segundos desde inicio del partido
+    
         t_sec = parse_game_time(game_time)
 
         # 2) número de jugadores anotados en la imagen
@@ -98,7 +95,6 @@ def process_labels_json(labels_path: str):
         # 5) número total de cajas (jugadores + otras cosas)
         num_boxes = len(bboxes)
 
-        # --- Etiqueta de highlight ---
         # 1 si es una jugada "importante" según la lista,
         # 0 si es algo más rutinario (throw-in, ball out of play, etc.)
         is_highlight = 1 if label in HIGHLIGHT_LABELS else 0
@@ -162,5 +158,5 @@ def build_dataset(max_games: int = 5):
 
 
 if __name__ == "__main__":
-    # Puedes cambiar max_games si quieres usar más partidos
+   
     build_dataset(max_games=5)
