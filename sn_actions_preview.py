@@ -7,7 +7,7 @@ SN_PATH = r"C:\SoccerNetData"
 def find_labels_json():
     """Busca el primer labels-v3.json dentro de C:\SoccerNetData."""
     for root, dirs, files in os.walk(SN_PATH):
-        # Algunos partidos lo tienen con l minúscula, otros con L mayúscula
+        
         for name in ("labels-v3.json", "Labels-v3.json"):
             if name in files:
                 return os.path.join(root, name)
@@ -28,7 +28,7 @@ def main():
     with open(labels_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    # Vemos las claves principales del JSON
+    #  claves principales del JSON
     keys = list(data.keys())
     print("Keys en el JSON:", keys)
 
@@ -59,7 +59,7 @@ def main():
         first_val = actions[first_key]
         print("Tipo del valor asociado:", type(first_val))
 
-        # Si el valor asociado es lista, mostramos primeros elementos
+       
         if isinstance(first_val, list):
             print("\nPrimeros elementos de esa lista:")
             for a in first_val[:5]:
