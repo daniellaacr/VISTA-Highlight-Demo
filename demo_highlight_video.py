@@ -5,7 +5,6 @@ import argparse
 import os
 import warnings
 
-# Silenciar warnings molestos de sklearn
 warnings.filterwarnings("ignore", category=UserWarning)
 
 MODEL_PATH = "highlight_model.joblib"
@@ -64,17 +63,17 @@ def run_demo(video_path, max_frames=None):
             print(f"[INFO] Parando demo después de {max_frames} frames.")
             break
 
-        # Saltar frames para que vaya más rápido (usa 1 de cada 3)
+       
         if frame_idx % 3 != 0:
             continue
 
-        # Reducir tamaño de la ventana (más fluido, más manejable)
+       
         frame = cv2.resize(frame, (800, 450))
 
-        # 1) Features básicos + gray actual
+    
         gray, feats = extract_features(frame)
 
-        # 2) Score de movimiento basado en diferencia con el frame previo
+    
         if prev_gray is None:
             motion_score = 0.0
         else:
@@ -86,30 +85,28 @@ def run_demo(video_path, max_frames=None):
 
         prev_gray = gray
 
-        # 3) Ajustar dimensionalidad de features para el modelo
         if n_model is not None:
             if len(feats) < n_model:
                 feats = feats + [0.0] * (n_model - len(feats))
             elif len(feats) > n_model:
                 feats = feats[:n_model]
 
-        # 4) Probabilidad del RandomForest
+        
         try:
             prob_rf = float(model.predict_proba([feats])[0][1])
         except Exception:
             # por si acaso algo raro pasa, que no truene el demo
             prob_rf = 0.5
 
-        # 5) Combinar modelo + movimiento para que se vea más reactivo
+     
         prob = 0.5 * prob_rf + 0.5 * motion_score
 
-        # ---------------- DIBUJO EN PANTALLA ----------------
         overlay = frame.copy()
         box_w, box_h = 360, 60
         x1, y1 = 10, 10
         x2, y2 = x1 + box_w, y1 + box_h
 
-        # Fondo negro semi-transparente
+       
         cv2.rectangle(overlay, (x1, y1), (x2, y2), (0, 0, 0), -1)
         frame = cv2.addWeighted(overlay, 0.5, frame, 0.5, 0)
 
